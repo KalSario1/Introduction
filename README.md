@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mahmoud Kamal</h1>
-<h3 align="center">A passionate UI/UX Designer from Egypt</h3>
+<h3 align="center">A Dev/Data Analytic Student from Egypt</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kalsario1" alt="kalsario1" /></a> </p>
 
